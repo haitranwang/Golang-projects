@@ -1,0 +1,1 @@
+Sử dụng chung cho các dự án trong src/go
